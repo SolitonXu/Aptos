@@ -1,7 +1,10 @@
 # Aptos
 wave Hi, I’m @soliton
-eyes I’m interested in ...
+
+eyes I’m interested in Aptos Developer Network
+
 seedling I’m currently learning 此教程如何用docker搭建AptosFullNode
+
 [1.Aptos开发者测试申请表]https://aptos.typeform.com/to/jwSOZbH6 [2.discord链接]https://discord.gg/qeCK766G [3.官方文档]https://aptoslabs.com/developers/
 
 配置 最低配置:
